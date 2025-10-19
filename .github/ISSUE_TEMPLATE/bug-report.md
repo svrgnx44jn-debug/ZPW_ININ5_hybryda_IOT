@@ -1,9 +1,9 @@
 ---
 name: Zgłoszenie błędu
 about: Zgłoś błąd na stonie ZOO Online
-title: [BUG] Krótki opis
+title: "[BUG] Krótki opis"
 labels: bug
-assignees: ''
+assignees: ""
 ---
 
 ** Opis błędu**
