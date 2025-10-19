@@ -6,7 +6,7 @@ tabels: enhancement
 assignees: ''
 ---
 
-** Opis funkcji**
+** Opis funkcji **
 Opisz jaka funkcja powinna zostać dodan.
 
 ** Przykład użycia **
