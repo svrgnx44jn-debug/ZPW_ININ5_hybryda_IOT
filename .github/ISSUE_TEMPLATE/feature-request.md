@@ -6,12 +6,12 @@ tabels: enhancement
 assignees: ''
 ---
 
-** Opis funkcji **
+**Opis funkcji**
 Opisz jaka funkcja powinna zostać dodan.
 
-** Przykład użycia **
+**Przykład użycia**
 Jak użytkownik skorzysta z tej funkcji
 
-** Dodatkowe informacje **
+**Dodatkowe informacje**
 Wszystkie dodatkowe pomysły
 
