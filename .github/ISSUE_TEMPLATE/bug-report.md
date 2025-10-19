@@ -6,7 +6,7 @@ labels: bug
 assignees: ""
 ---
 
-** Opis błędu**
+**Opis błędu**
 Króko opisz na czym polega błąd
 
 **Jak go odtworzyć?**
@@ -15,7 +15,7 @@ Kroki do odtworzenia:
 2. Kliknij w...
 3. Zobaczysz...
 
-** Oczekiwane zachowanie**
+**Oczekiwane zachowanie**
 Opisz co powinno się stać
 
 **Dodatkowe informacje**
